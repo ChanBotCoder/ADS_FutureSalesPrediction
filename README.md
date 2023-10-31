@@ -41,4 +41,7 @@ Ensure you have the following dependencies installed before running the code:
 This command will execute the prediction code and display the results.
 Note: If you are using the provided Jupyter notebook, you can run the cells inside the notebook for the same result.
    
-
+## Usage Instructions
+- The predict_sales.py file contains the code for loading the dataset, training the machine learning model, and making predictions.
+- Modify the code as needed to experiment with different machine learning algorithms, hyperparameters, or feature engineering techniques.
+- Feel free to explore the Jupyter notebook for a step-by-step walkthrough of the prediction process.
