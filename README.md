@@ -29,3 +29,16 @@ Ensure you have the following dependencies installed before running the code:
    ```bash
    git clone https://github.com/your-username/future-sales-prediction.git
    cd future-sales-prediction
+
+2. **Install dependencies:**
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn plotly jupyter
+
+4. **Run the prediction code:**
+   ```bash
+   python predict_sales.py
+
+This command will execute the prediction code and display the results.
+Note: If you are using the provided Jupyter notebook, you can run the cells inside the notebook for the same result.
+   
+
