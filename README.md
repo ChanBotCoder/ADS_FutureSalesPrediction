@@ -34,12 +34,13 @@ Ensure you have the following dependencies installed before running the code:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn plotly jupyter
 
-4. **Run the prediction code:**
+4. **Run code:**
    ```bash
    python predict_sales.py
 
 This command will execute the prediction code and display the results.
-Note: If you are using the provided Jupyter notebook, you can run the cells inside the notebook for the same result.
+
+**Note:** If you are using the provided Jupyter notebook, you can run the cells inside the notebook for the same result.
    
 ## Usage Instructions
 - The predict_sales.py file contains the code for loading the dataset, training the machine learning model, and making predictions.
