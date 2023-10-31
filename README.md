@@ -27,7 +27,7 @@ Ensure you have the following dependencies installed before running the code:
 ## Running the Code
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/future-sales-prediction.git
+   [git clone https://github.com/your-username/future-sales-prediction.git](https://github.com/ChanBotCoder/ADS_FutureSalesPrediction.git)
    cd future-sales-prediction
 
 2. **Install dependencies:**
